@@ -1,0 +1,24 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 28-03-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+237,VALENCIA,SPAIN,+39:28:50,-000:21:59,11 m 
+----------------------------------------------------------------
+* Land use:
+In October 1937 the observatory was moved to the  Valencia Municipal Nurseries, in a gardened and flat area. Until the 1960s the observatory was in a garden practically on the outskirts of the city. Gradually the city grew and now the observatory is close
+* Soil type:
+
+* Surface coverage:
+
+* History:
+After the 1960s a 12-story building 30 meters east of the observatory is build. From the 1970s the Nurseries  were extended on the west side of Observatory, with large trees that influence wind gusts from the west, which often leads to lower maximum wind gusts measurements. <br> From 1942 and until the late 1980s (exact date not determined), the meteorological shelter was placed on grass. In the late 1980s grass was removed and the shelter was on natural terrain. On 17/01/2006, because of the redesigning of the Centre the grass was re-setting.<br>
+Between 1942 and April 30, 1975 a full anemocinemógrafo Fuess was working at the observatory, it was on a metal tower on the terrace, to 19.7 m from the ground. <br>
+It was changed by a FUESS anemometer on April, 30, 1975. <br>
+On January, 1, 1983 a SEAC automatic station replaces the Fuess, it was installed on a new tower located in the same place, to 26.6 m above the ground. <br>
+
